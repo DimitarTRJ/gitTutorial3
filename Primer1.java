@@ -2,7 +2,7 @@
 /*
  * tj.exe Prva.java . .
  * 
- * Version_1
+ * Version_2
  */
 
 import java.util.*;
